@@ -1,0 +1,57 @@
+.foxy1{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    color: dimgray;
+}
+
+.foxy2{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.facts-heading{
+    color: black;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: black;
+}
+.foxy-header{
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+}
+
+.last-header{
+    font-size: 40;
+    display: inline-block;
+    background-color: black;
+}
+
+h5{
+    display: inline-block;
+    padding: 5%;
+    background-color: black;
+}
+
+.breed-link{
+    display: inline-block;
+    padding: 7%;
+    background-color: black;
+}
+
+.main-heading{
+    display: inline-block;
+    padding: 9%;
+    background-color: dimgray;
+}
+
+
+
+
+
